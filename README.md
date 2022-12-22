@@ -6,4 +6,4 @@ Instal React Star Ratings
 
 Progress:
 1.Planning the design to have an attractive UI
-2.Create a project using the existing api
+2.Create a project using the existing API
